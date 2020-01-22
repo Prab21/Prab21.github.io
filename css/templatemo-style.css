@@ -256,6 +256,7 @@ header .social-icon li a
 #about div, p
 {
 	font-size: 20px;
+	text-align: justify;
 	/* font-we//ight: bold; */
 
 
